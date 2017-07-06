@@ -1,6 +1,8 @@
 # SOS DAY 4
 ### TOPIC
 
+## INTRODUCTION TO LOOP
+
 ## WHILE LOOP
  - how it works?
  - structor?
